@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jalabenavaqu.pages.dev/sitemap.xml
